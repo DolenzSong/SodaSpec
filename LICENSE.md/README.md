@@ -1,6 +1,6 @@
 # SodaSpec
 A fun and easy wrapper for the SODA library.
-SODA is a gorgeous UI solution for use with the iPad app Codea  
+SODA is a gorgeous UI solution for use with the iPad app Codea. It lives at https://github.com/Utsira/Soda.
 To import into Codea, copy the SodaSpecTabs file, and then hold down on the new-project plus sign on Codea's opening screen.
 
 ## Usage
